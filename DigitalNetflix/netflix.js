@@ -23,7 +23,7 @@ function maisInformacoes(){
     window.alert ("INFORMAÇÃO AINDA NÃO DISPONÍVEL :(  AGUARDE");
             }
 
-            function marvelLendas(){
+      /*      function marvelLendas(){
                 window.location.href = "https://www.youtube.com/watch?v=5xBlogqXlsI"
             }
             function msmarvel(){
@@ -34,7 +34,7 @@ function maisInformacoes(){
             }
             function vingadores(){
                 window.location.href ="https://www.youtube.com/watch?v=50opun0b51o"
-            }
+            } */
 
 
             
