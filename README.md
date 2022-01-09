@@ -6,3 +6,6 @@ Foco em classes, OWL Carrousel, Responsividade
 *Adicionei no botão assistir a função window.location para ser visualizado o trailer do youtube 
 *Adicionei no botão informações um Alert com um amensagem
 *Adicionei em alguns filmes  função para direcionar/acessar videos referentes no youtube.
+<br>
+<img height=”700” src= https://github.com/Rodrigues-PauloRicardo/clone-MarvelFlix/blob/main/DigitalNetflix/imagens/marvel.png>
+<br>
