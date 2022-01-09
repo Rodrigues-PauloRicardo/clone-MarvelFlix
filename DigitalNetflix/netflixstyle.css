@@ -106,5 +106,6 @@ header nav a:hover{          /*  :hover= mudança de cor ao passar o mouse sobre
         font-size: 13px;
         display: flex;
         justify-content: center;
-        margin-top: 5px;
+        margin: 15px;
+        
     }
