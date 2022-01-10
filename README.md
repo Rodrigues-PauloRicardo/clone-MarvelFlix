@@ -2,7 +2,8 @@
 
 
 <br>
-<img height=”700” src= https://github.com/Rodrigues-PauloRicardo/clone-MarvelFlix/blob/main/DigitalNetflix/imagens/marvel.png>
+
+[ screenshot] = <img height=”700” src= C:\Users\rober\Documents\GitHubProjClonados\clone-MarvelFlix\imagens\liga-da-justica.png>
 <br>
 
 
