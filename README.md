@@ -1,5 +1,5 @@
 
-![Screenshot](https://github.com/Rodrigues-PauloRicardo/clone-MarvelFlix/blob/main/imagens/liga-da-justica.png)
+![Screenshot](https://github.com/Rodrigues-PauloRicardo/clone-MarvelFlix/blob/main/imagens/marvel.png)
 
 # Clone-MarvelFlix
 
@@ -12,7 +12,7 @@ Tabela de conteúdos
    * [Series](#series)
    * [Filmes](#filmes)
    * [Documentarios](#documentarios)
-   * [Carousel.](carousel)
+   * [Carousel](#carousel)
 <!--te-->
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a8ce824-9217-47e1-8b45-14d7e612ca32/deploy-status)](https://marvel-flix-estudo.netlify.app/)
@@ -21,7 +21,7 @@ Tabela de conteúdos
 HTML, CSS e Javascript com foco em classes, OWL Carrousel, Responsividade.
 
 <h2>MIT License</h2>
-Copyright (c) <2022 -- Paulo Ricardo>
+Copyright (c) <2021 -- Paulo Ricardo>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
