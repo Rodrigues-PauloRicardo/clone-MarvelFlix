@@ -5,8 +5,6 @@
 
 <h2>Criado clone tela inicial netflix com fins de estudo.</h2>
 
-<h2>Status: Em construção...</h2>
-
 Tabela de conteúdos
 =================
 <!--ts-->
