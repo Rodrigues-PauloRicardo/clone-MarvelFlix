@@ -1,5 +1,5 @@
 
-![Screenshot](C:\Users\rober\Documents\GitHubProjClonados\clone-MarvelFlix\imagens\liga-da-justica.png)
+![Screenshot](https://github.com/Rodrigues-PauloRicardo/clone-MarvelFlix/blob/main/imagens/liga-da-justica.png)
 
 # Clone-MarvelFlix
 
