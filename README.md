@@ -15,15 +15,14 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Minhas Redes](#redes)
-   * [Meus Projetos](#project)
-   * [Minhas Skills](#title-skills)
-   * [Estudando...](#title-learning)
-   * [Apresentação](#apresent)
+   * [Inicio](#inicio)
+   * [Series](#series)
+   * [Filmes](#filmes)
+   * [Documentarios](#documentarios)
+   * [Carousel.](carousel)
 <!--te-->
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0a8ce824-9217-47e1-8b45-14d7e612ca32/deploy-status)](https://portifolio-pauloricardo.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a8ce824-9217-47e1-8b45-14d7e612ca32/deploy-status)](https://marvel-flix-estudo.netlify.app/)
 
 ### 🛠 Tecnologias
 HTML, CSS e Javascript com foco em classes, OWL Carrousel, Responsividade.
