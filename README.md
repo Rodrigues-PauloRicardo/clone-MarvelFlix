@@ -1,11 +1,5 @@
 
-
-
-<br>
-
-[ screenshot] = <img height=”700” src= C:\Users\rober\Documents\GitHubProjClonados\clone-MarvelFlix\imagens\liga-da-justica.png>
-<br>
-
+![Screenshot](C:\Users\rober\Documents\GitHubProjClonados\clone-MarvelFlix\imagens\liga-da-justica.png)
 
 # Clone-MarvelFlix
 
